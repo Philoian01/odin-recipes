@@ -1,0 +1,26 @@
+img {
+    box-shadow: 7px 7px 10px rgb(69, 92, 76);
+    border-radius: 10px;
+}
+
+.marginCenteredImage {
+    display: block;
+    width: 30%;
+    margin: auto;
+    }
+
+.flexCenteredImage {
+    display: flex;
+    justify-content: center;
+        }
+
+.centeredText {
+    text-align: center;     /* Centered text element for CSS text-align: center */
+}
+
+.footerOnBottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
